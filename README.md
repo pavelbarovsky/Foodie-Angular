@@ -1,3 +1,3 @@
 Foodie - сайт с рецептами.
-Основные технологии: Angular, CSS, RxJs, NGXS, HttpClient, Router.
+Основные технологии: Angular, RxJs, NGXS, HttpClient, Router, CSS
 Ролевая модель (админ, гость, пользователь). 
